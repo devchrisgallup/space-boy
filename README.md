@@ -11,7 +11,7 @@ This game is in the early stages of development.  A menu system, enemies that at
            Boost: up arrow key (subtracts away from your points earned)
            
 ##Play
-May take a few seconds to load. https://goo.gl/qA6EZD
+May take a few seconds to load. http://chrisgalluptest.info/spaceboy/index.html
 
 
 ##Setup 
