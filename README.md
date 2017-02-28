@@ -1,8 +1,6 @@
 # space-boy
 The objective for this game is to bet the alien ship to the end of the level and grab the space cube before the alien ship can.  There is currently one level. 
 
-![spaceboy](https://cloud.githubusercontent.com/assets/19313175/16129031/c0c15cb0-33c8-11e6-9709-dac15952978e.PNG)
-
 This game is in the early stages of development.  A menu system, enemies that attack the player, shots fired from the alien ship, and more levels just to name a few things that are in current development. 
 
 ##Controls
